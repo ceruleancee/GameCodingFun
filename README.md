@@ -1,2 +1,2 @@
-# JavaScriptFun
+# JavaScript Fun
 JavaScript codig fun
